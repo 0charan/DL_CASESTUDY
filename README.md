@@ -1,6 +1,6 @@
 # Craft Cataloger
 
-Deep Learning Lab project, CBIT Hyderabad.
+Deep Learning Case Study, CBIT Hyderabad.
 Authors: Leela Sai Charan Putti, Suneet Reddy
 
 Identifies Indian handicrafts from a product photo by fine-tuning a pre-trained ResNet18, then generates a catalog card.
